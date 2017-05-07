@@ -1,2 +1,4 @@
 # vimwiki
-Vimwiki personal use
+Vimwiki personal use only
+
+## Licence: UnLicence
